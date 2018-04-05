@@ -29,9 +29,9 @@ layout: page
 		 
 		// We've inserted your Craig's DailyTracker API keys here for you :)
 		if (isDevelopmentMode) {
-		  Leanplum.setAppIdForDevelopmentMode("app_WOLHGvhA1YccBk4WRfWwrXk3wok4GZIvfn2kU3f8ork", "dev_vYJLCLGD77s9GtMiF0gHdRoMiZsrryPa7vMBkPKCZXg");
+		  Leanplum.setAppIdForDevelopmentMode("app_ELqc6tF6WusSEk4oRiudRhqoU5O6CsUaWLvNid8x3as", "dev_vYJLCLGD77s9GtMiF0gHdRoMiZsrryPa7vMBkPKCZXg");
 		} else {
-		  Leanplum.setAppIdForProductionMode("app_WOLHGvhA1YccBk4WRfWwrXk3wok4GZIvfn2kU3f8ork", "prod_6uGH0WWcNkCzouilZD01JRXd1qJpvMqelUDv0fGsXgs");
+		  Leanplum.setAppIdForProductionMode("app_ELqc6tF6WusSEk4oRiudRhqoU5O6CsUaWLvNid8x3as", "prod_4MnVJvhw8hQyHSFVScebg9NDRdkUkwRuI9XQDWAQsB4");
 		}
 		 
 		Leanplum.setVariables(variables);
